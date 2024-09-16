@@ -46,11 +46,20 @@ body {
   }
 
   #dino-image {
-    width: 100%;
-    max-width: 600px;
+    width: 50%;
+    max-width: 200px;
     display: block;
     margin: 10px auto;
     border: 5px solid #4caf50;
     border-radius: 10px;
+  }
+  img {
+    width: 100%;
+    max-width: 400px;
+    border: 5px solid #4caf50;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+
   }
   
